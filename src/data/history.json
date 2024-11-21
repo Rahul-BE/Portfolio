@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Web Designer",
+    "organisation": "DHRONOV INFOTEC",
+    "startDate": "Sept, 2024",
+    "endDate": "Present",
+    "experiences": ["Worked on Web Designing", "Reduced load times by 50%"],
+    "imageSrc": "history/dhronav-infotech-pvt-ltd-thillaipuram-namakkal-computer-training-institutes-17q0ebicfs.jpg"
+  },
+  {
+    "role": "Project Management Role",
+    "organisation": "ACCENTURE",
+    "startDate": "Aug, 2023",
+    "endDate": "Sep, 2023",
+    "experiences": ["Worked on Project Management", "Management Job Simulation"],
+    "imageSrc": "history/Accenture-Logo.png"
+  },
+  {
+    "role": "AR Engineer",
+    "organisation": "META",
+    "startDate": "Apr, 2022",
+    "endDate": "Jun, 2023",
+    "experiences": [
+      "Worked on component library",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/pngimg.com - meta_PNG12.png"
+  }
+]
